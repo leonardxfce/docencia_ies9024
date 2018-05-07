@@ -13,8 +13,10 @@
 5.	Bibliografía o fuentes de consultas: 
     * Codigo Limpio
     * UML y Patrones
+    * UML Destilado
     * Patrones de Diseño
     * No me hagas Pensar    
+    * https://1drv.ms/f/s!AnUgh-ih9wztg9NLZPyQj6-o_tg7BA
 6.	Recursos audiovisuales: 
     * SoloLearn
     * Duolingo
