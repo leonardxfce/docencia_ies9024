@@ -1,4 +1,4 @@
-# Estaciones Meteorologicas
+# Clase N°1
 1. Eje/unidad (del programa): 3 - Herramientas Tecnologicas
 2. Tema: Estaciones Metereologicas
 3. Objetivo/s: Conocer los componentes/instrmentos de medicion indispensables de una estacion meterologica.
