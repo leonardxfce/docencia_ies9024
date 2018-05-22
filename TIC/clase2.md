@@ -18,7 +18,7 @@
     * Recursos audiovisuales: 
         * [Generalidades de los Instrumentos de Campo](https://www.youtube.com/watch?v=JrblGQzpHkk)
 6. Estrategias metodológicas/actividades:
-    1. Aplicar el flujo de trabajo de Kanban
+    1. Aplicar el flujo de trabajo de Kanban [link](https://trello.com/b/FNaSbJhC/tic)
         1. Tomar una de las tarjetas en el tablero asignado a esta actividad
         2. Investigar en distintas fuentes sobre el tema especifico tomado para desarrollar
         3. Mover la tarjeta de "Para hacer" a "En Progreso"
