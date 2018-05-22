@@ -1,21 +1,22 @@
-# Clase N° 2 
-1. Eje/unidad (del programa): 
-    * EJE V: Desarrollo Profesional del Analista de Sistemas 
-2. Tema: 
+# Clase N° 2
+
+1. Eje/unidad (del programa):
+    * EJE V: Desarrollo Profesional del Analista de Sistemas
+2. Tema:
     * Representación interna, espacio y tiempo.
-3. Objetivo/s: 
-    * Desarrollar la website para fomentar la marca personal
-4.	Contenidos: 
+3. Objetivo/s:
+    * Desarrollar la web site para fomentar la marca personal
+4. Contenidos:
     * Representación interna, espacio y tiempo.
         * Marca Personal, como estrategia de representación interna
         * Fortalezas de la Marca Personal
         * Blog: su importancia a través del tiempo
-5.	Bibliografía o fuentes de consultas: 
-    * Sonmez J. (2017) The Complete Software Developer's Career Guide. EE.UU: Manning Publications.     
-6.	Recursos audiovisuales: 
+5. Bibliografía o fuentes de consultas:
+    * Sonmez J. (2017) The Complete Software Developer's Career Guide. EE.UU: Manning Publications.
+6. Recursos audiovisuales:
     * [Charla TED](https://www.youtube.com/watch?v=c5FcxItUxo0)
     * [Post en Platzi](https://platzi.com/blog/desarollar-marca-personal/)
-7.	Estrategias metodológicas/actividades:  
+7. Estrategias metodológicas/actividades:
     1. Desarrollar un sitio web aplicando las tecnologías:
         * HTML
         * CSS
@@ -28,13 +29,13 @@
         * Tip/Tutorial de desarrollo
         * Reflexión personal sobre algún tema de software.
     5. [Crear una cuenta en Firebase](https://firebase.google.com/?hl=es-419)
-    6. [Instalar la consola de Firebase](https://firebase.google.com/docs/cli/?hl=es-419) 
+    6. [Instalar la consola de Firebase](https://firebase.google.com/docs/cli/?hl=es-419)
     7. Leer como [subir archivos a Firebase](https://firebase.google.com/docs/hosting/?hl=es-419)
     8. Copiar el link generado para la pagina web y compartirlo en el foro de esta clase
     9. __IMPORTANTE__: cuando usted necesite ayuda en cualquier etapa solicítela en el foro de la actividad.
-8.	Tiempo: 
+8. Tiempo:
     * Las actividades propuestas en esta clase deberán ser resueltas antes del ultimo dia de cursado antes del receso invernal.
-9.	Evaluación: 
+9. Evaluación:
     * Para la aprobación de esta clase se deberá realizar una participación en el foro correspondiente a esta actividad.
     * Se valoraran de forma positiva las participaciones que expresen los avances en cada actividad.
     * Solicitar cualquier tipo de ayuda en el foro será valorada de forma positiva
