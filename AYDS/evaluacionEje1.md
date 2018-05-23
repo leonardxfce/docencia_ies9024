@@ -18,7 +18,7 @@
 
 ## Puntajes
 
-| Actividad| Puntaje|Corrección|
+|Actividad|Puntaje|Corrección|
 | :-------------: |:-------------:|:---:|
 |1|10p||
 |2|5p||
