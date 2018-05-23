@@ -1,0 +1,27 @@
+{
+  "name": "docencia-ies9024",
+  "version": "1.0.0",
+  "description": "archivos varios para ir practicando markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardxfce/docencia_ies9024.git"
+  },
+  "keywords": [
+    "markdown",
+    "docencia"
+  ],
+  "author": "leonardxfce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardxfce/docencia_ies9024/issues"
+  },
+  "homepage": "https://github.com/leonardxfce/docencia_ies9024#readme",
+  "devDependencies": {
+    "markdown-pdf": "^8.1.1",
+    "markdownlint": "^0.9.0"
+  }
+}
