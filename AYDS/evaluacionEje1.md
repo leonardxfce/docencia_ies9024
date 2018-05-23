@@ -1,6 +1,7 @@
-# Evaluación Eje 1 Análisis y Diseño de Sistemas
+# Recuperatorio Evaluación Eje 1 Análisis y Diseño de Sistemas
 
 * Nombre y apellido:
+* Fecha:
 
 ## Actividades
 
@@ -13,22 +14,22 @@
 7. Definir 2 de esas características
 8. Aplicar 2 de los conceptos de OO al diagrama y justificar su aplicación.
 9. ¿Que significa la sigla MVC?
-10. ¿Que nuevas clases surgirían al aplicar el patrón MVC a nuestro diseño de clases de Animal?
+10. Definir una interfaz entre la clase Animal y la clase Persona.
 
 ## Puntajes
 
 | Actividad| Puntaje|Corrección|
 | ------------- |:-------------:|---:|
 | 1|10p||
-| 2|10p||
-| 3|15p||
+| 2|5p||
+| 3|10p||
 | 4|10p||
 | 5|10p||
 | 6|20p||
 | 7|10p||
-| 8|15p||
+| 8|10p||
 | 9|5p||
-| 10|5p||
+| 10|10p||
 
 ## Recomendaciones
 
