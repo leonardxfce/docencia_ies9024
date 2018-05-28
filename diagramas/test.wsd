@@ -1,0 +1,13 @@
+@startuml test
+package SeresVivos {
+    interface Caminador{
+        + void caminar()
+        + void correr()
+        + void tropezar()
+    }
+    Animal <|-- Persona
+    Caminador <|--- Persona
+}
+Computadora "1" *-- "N" CPU
+Conserva -- Duraznos : tiene >
+@enduml

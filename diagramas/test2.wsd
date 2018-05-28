@@ -1,0 +1,10 @@
+@startuml test
+left to right direction
+skinparam packageStyle rectangle
+actor customer
+actor clerk
+rectangle checkout {
+    customer -- (vender)
+    (inventariar) -- clerk
+}
+@enduml
