@@ -29,8 +29,11 @@
         * Inserción de esta Tecnología en Lavalle
     5. Incorporar las fuentes de consulta al informe
     6. Seleccionar una de las formas de evaluación para concluir esta aula virtual.
+    7. Realizar intervenciones en el foro:
+        * Consultando Dudas o problemas para el desarrollo del aula virtual
+        * Mostrando el avance de la tarea.
 7. Tiempo:
-    * 2 semanas.
+    * 4 semanas.
 8. Evaluación:
     * Para esta actividad se establece como requisito obligatorio generar una producción en formato radial
     * La para aprobar de la clase se puede elegir entre:
