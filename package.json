@@ -4,7 +4,8 @@
   "description": "archivos varios para ir practicando markdown",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "toPDF": "markdown-pdf -f A4 -s splendor.css "
   },
   "repository": {
     "type": "git",

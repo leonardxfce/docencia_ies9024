@@ -1,0 +1,14 @@
+@startuml alberdi
+Inventario "1" *--- "N" Item
+interface Item {
+    + aumentarCantidad(int cantidad)
+    + mostrarCantidad()
+    + disminuirCantidad(int cantidad)
+    + crearNuevo()
+}
+Item <|--- Producto
+Item <|--- Ingredientes
+Item <|--- Maquinaria
+Item <|--- Utensilios
+Producto *-- Ingredientes
+@enduml

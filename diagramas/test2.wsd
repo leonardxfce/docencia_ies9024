@@ -1,10 +1,13 @@
 @startuml test
 left to right direction
-skinparam packageStyle rectangle
-actor customer
-actor clerk
-rectangle checkout {
-    customer -- (vender)
-    (inventariar) -- clerk
+actor marcelo
+actor directivo
+rectangle sistema {
+    marcelo -- (realizar inventario)
+    (realizar inventario) ..> (mostrar items) : include
+    (realizar inventario) ..> (cargar items) : include
+    (ver inventario) ..> (mostrar items) : include
+    directivo -- (ver inventario)
+    directivo -- (ver alumnos)
 }
 @enduml
