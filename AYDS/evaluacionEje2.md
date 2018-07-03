@@ -1,21 +1,21 @@
 1. Leonardo, un programador en la misma empresa que vos, 
 desarrollo la parte del login del sistema y lo para hacerlo creo una clase de la siguiente manera
 
-Clase Login	
--------------------------
-	String nombre
-	String usuario
-	String nombreDeTabla
-	String nombreDeBD
-	String numeroIPdeBD
-	String contraseñaBD
-	JOptionPane ventanaLogin
-	JOPtionPane ventanaError
--------------------------
-	public void mostrarPantallaDeLogin()
-	public void conectarseAlaBD()
-	public void compararDatos()
-	public void mostrarVentanaError
+| Clase Login	          |
+|-------------------------|
+|	String nombre | 
+|	String usuario |
+|	String nombreDeTabla |
+|	String nombreDeBD |
+|	String numeroIPdeBD |
+|	String contraseñaBD | 
+|	JOptionPane ventanaLogin         |
+|	JOPtionPane ventanaError             |
+|----------------------------------------|
+|	public void mostrarPantallaDeLogin() |
+|	public void conectarseAlaBD()        |
+|	public void compararDatos()          |
+|	public void mostrarVentanaError      |
 
 Esta clase esta no esta aplicando los principios GRASP. Tu tarea es:
 
@@ -102,21 +102,21 @@ Arbitro
 cajeros automaticos, el encargado de sistemas del Banco Nacion le muestra la 
 siguiente clase
 
-ATM
-----
-Pesos billete
-PanatallaTactil pantalla
-TecladoNumerico teclado
-Boveda boveda
-Mastercard tarjeta
-Epson impresoraInterna
-int cantidadDeDinero
-----
-darDinero()
-mostrarOpcionesDeRetiro()
-leerContraseña()
-contarDineroTotal()
-imprimirTicket()
+|ATM |
+|---- |
+| Pesos billete |
+| PanatallaTactil pantalla |
+| TecladoNumerico teclado |
+| Boveda boveda |
+| Mastercard tarjeta |
+| Epson impresoraInterna |
+| int cantidadDeDinero |
+| ---- | 
+| darDinero() |
+| mostrarOpcionesDeRetiro() | 
+| leerContraseña() |
+| contarDineroTotal() |
+| imprimirTicket() |
 
 
 El gerente general del Banco le pide que este sistema debe permitir nuevas
@@ -130,18 +130,18 @@ los distintos grupos/cantantes relacionados al mundo de la musica de
 Corea del Sur. El programador con el que usted esta realizando el sistema es Corea y le presenta
 el siguiente diagrama
 
-Artista
-------
-String nombre
-String genero
-int integrantes
-int cantidadDeDiscos
-String[] canciones
-----------
-getNombre()
-setNombre()
-getIntegrantes()
-setIntegrantes()
+| Artista |
+| ------ |
+| String nombre | 
+| String genero | 
+| int integrantes | 
+| int cantidadDeDiscos | 
+| String[] canciones | 
+| ---------- |
+| getNombre() |
+| setNombre() |
+| getIntegrantes() |
+| setIntegrantes() |
 
 * ¿ Los metodos de esta clase son "altamente cohesivos"?
 * En caso de no serlo, realice devuelta este diagrama corrigiendo o proponiendo cambios
