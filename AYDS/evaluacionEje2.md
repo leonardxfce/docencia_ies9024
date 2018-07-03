@@ -20,35 +20,33 @@ desarrollo la parte del login del sistema y lo para hacerlo creo una clase de la
 |	public void compararDatos()          |
 |	public void mostrarVentanaError      |
 
-Esta clase esta no esta aplicando los principios GRASP. Tu tarea es:
-
-* Indicar cuales principios GRASP no estan aplicados
-* Elaborar un diseño mejorado de la parte del Login 
+* Esta clase esta no esta aplicando los principios GRASP. Tu tarea es:
+	* Indicar cuales principios GRASP no estan aplicados
+	* Elaborar un diseño mejorado de la parte del Login 
 
 2. Marcelo necesita que el sistema que se le esta desarrollando pueda 
 cargar datos sobre la materia prima que usa en su fabrica. En las entrevistas
 que se tuvo con él se logro recabar la siguiente informacion:
 
-"La materia prima de nuestra fabrica, normalmente se pesa, se cataloga por su
+> "La materia prima de nuestra fabrica, normalmente se pesa, se cataloga por su
 tipo por ejemplo: duraznos, aceitunas, uvas, etc. Cada materia prima ademas se
 registra con una fecha de entrada. Y existe la posiblidad que la materia prima tenga
 un proveedor, en caso no tenerlo es de produccion propia. Las principales acciones
 que hacemos a la materia prima es pesarla, o sea dar su peso, y quitarle la cascara,
 ramas o hojas, depende del caso, que eso lo llamamos quitar peso."
 
-En base la informacion propocianda:
-
-* Diseñar la clase MateriaPrima aplicando los principios de Alta Cohesion y Experto en la informacion
-* ¿Que principo de GRASP de debe utilizar para terminar de diseñar la funcionalidad pedida por Marcelo para que funcione con JavaFX y MySQL?
+* En base la informacion propocianda:
+	* Diseñar la clase MateriaPrima aplicando los principios de Alta Cohesion y Experto en la informacion
+	* ¿Que principo de GRASP de debe utilizar para terminar de diseñar la funcionalidad pedida por Marcelo para que funcione con JavaFX y MySQL?
 	* Tener en cuenta en este caso que ya se creo la clase MateriaPrima, y se esta desarrollando el sistema siguiendo MVC.
+
 3. Estas a 2 semanas de terminar el desarrollo pedido durante el año de la fabrica de Marcelo y el sistema desarrollado se ve de la siguiente forma
 
 MateriaPrima ----- ConexionMySQL
 Insumo ------ ConexionMySQL
 ElementoSeguridad ----- ConexionMySQL
 
-
-El IES es comprado por Microsoft y se les exige a los alumnos dejar de utilizar las BD de Oracle como lo es MySQL. El sistema actual esta 
+4. El IES es comprado por Microsoft y se les exige a los alumnos dejar de utilizar las BD de Oracle como lo es MySQL. El sistema actual esta 
 "altamente acoplado" a MySQL, como resolverias la situacion. 
 
 * ¿Que principos GRASP se deberian haber aplicado
@@ -60,7 +58,7 @@ el sistema se ve de la siguiente forma
 
 PantallaFX  -----------> Insumo
 
-Para esta situacion Marcelo esta utilizando la version JavaFX, pero desde ahora hay que mantener las 2 versiones, lo cual nos dice
+> Para esta situacion Marcelo esta utilizando la version JavaFX, pero desde ahora hay que mantener las 2 versiones, lo cual nos dice
 que dependiendo del cliente (Marcelo o Enzo) debemos "crear" una interfaz diferente. 
 
 * ¿Como resolverias esta situacion a traves de GRASP, que principios usarias?
