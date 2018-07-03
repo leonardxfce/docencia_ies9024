@@ -42,9 +42,11 @@ ramas o hojas, depende del caso, que eso lo llamamos quitar peso."
 
 3. Estas a 2 semanas de terminar el desarrollo pedido durante el año de la fabrica de Marcelo y el sistema desarrollado se ve de la siguiente forma
 
+`
 MateriaPrima ----- ConexionMySQL
 Insumo ------ ConexionMySQL
 ElementoSeguridad ----- ConexionMySQL
+`
 
 4. El IES es comprado por Microsoft y se les exige a los alumnos dejar de utilizar las BD de Oracle como lo es MySQL. El sistema actual esta 
 "altamente acoplado" a MySQL, como resolverias la situacion. 
@@ -55,9 +57,9 @@ ElementoSeguridad ----- ConexionMySQL
 4. El coordinador de la carrera decide que el futuro son las aplicaciones moviles, por lo cual se les exige todos los alumnos tirar a 
 la hoguera el IDE Netbeans y utlizar AndroidStudio. Cada alumno estaba desarrollando su sistema utilizando JavaFX. por lo cual
 el sistema se ve de la siguiente forma
-
+`
 PantallaFX  -----------> Insumo
-
+`
 > Para esta situacion Marcelo esta utilizando la version JavaFX, pero desde ahora hay que mantener las 2 versiones, lo cual nos dice
 que dependiendo del cliente (Marcelo o Enzo) debemos "crear" una interfaz diferente. 
 
@@ -67,7 +69,7 @@ que dependiendo del cliente (Marcelo o Enzo) debemos "crear" una interfaz difere
 5. La profesora preferida de los alumnos de sistemas les pide una tarea a sus alumnos y ellos deseperados corren a realizarla
 En la clase de Redes la profesora les explica las carateristicas principales de un Router
 
-"Un router CISCO, tiene un conector RJ45, 4 bocas Ethernet y 2 antenas Wifi" 
+> "Un router CISCO, tiene un conector RJ45, 4 bocas Ethernet y 2 antenas Wifi" 
 
 * ¿Que clase podrias diseñar con esta informacion?
 * ¿Que principios utilizarias para justificar tu diseño?
@@ -81,9 +83,9 @@ La forma mas comun de programar en Javascript es hacer todas las cosas juntas, p
 del HTML y manejar los eventos de sistema en la misma funcion.
 Dada esta situacion se te solicita hacer una calculadora en javascript con HTML y el diseño de clases se ve
 de la siguiente manera
-
+`
 HTMLCalculadora  ----> ???? -----> LogicaCaluladora
-
+`
 * Cual principio GRASP deberias utilizar para completar este diseño de sistemas
 * Completa el diagrama utilizando la clase ,producto de aplicar el principio GRASP
 
@@ -91,11 +93,11 @@ HTMLCalculadora  ----> ???? -----> LogicaCaluladora
 relacionado con el deporte del futbol, aplicando lo visto en AyDS
 usted empieza a desarrollar el diagrama de clases y esta de la siguiente 
 manera:
-
+`
 Delantero   
 Pelota
 Arbitro
-
+`
 * Utilice GRASP para terminar este diagrama de clases
 * Nombre los distintos principios que aplico
 
@@ -120,7 +122,7 @@ siguiente clase
 | imprimirTicket() |
 
 
-El gerente general del Banco le pide que este sistema debe permitir nuevas
+> El gerente general del Banco le pide que este sistema debe permitir nuevas
 tarjetas y tambien debe permitir dolares
 
 * Que problemas relacionados con GRASP tiene actualmente este sistema
@@ -149,9 +151,9 @@ el siguiente diagrama
 
 10. Segun lo abordado que principios GRASP identifica en
 el patron MVC 
-
+`
 Modelo  ---- Controlador ---- Vista
-
+`
 11. Nombrar los principios SOLID. ¿ Para que sirven en general ?
 12. Cuales son las 4 caracteristicas principales de la software de calidad. Describir alguna de ellas
 13. Que significa DRY. Que problemas traeria si no se corrige
