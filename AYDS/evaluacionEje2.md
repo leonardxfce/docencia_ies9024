@@ -1,7 +1,7 @@
 # Examen Eje 2
 
 ## Ejercicio 1
-1. Leonardo, un programador en la misma empresa que vos, 
+Leonardo, un programador en la misma empresa que vos, 
 desarrollo la parte del login del sistema y lo para hacerlo creo una clase de la siguiente manera
 
 | Clase Login	          |
@@ -25,7 +25,7 @@ desarrollo la parte del login del sistema y lo para hacerlo creo una clase de la
 	* Elaborar un diseño mejorado de la parte del Login 
 
 ## Ejercicio 2
-2. Marcelo necesita que el sistema que se le esta desarrollando pueda 
+Marcelo necesita que el sistema que se le esta desarrollando pueda 
 cargar datos sobre la materia prima que usa en su fabrica. En las entrevistas
 que se tuvo con él se logro recabar la siguiente informacion:
 
@@ -42,7 +42,7 @@ ramas o hojas, depende del caso, que eso lo llamamos quitar peso."
 	* Tener en cuenta en este caso que ya se creo la clase MateriaPrima, y se esta desarrollando el sistema siguiendo MVC.
 
 ## Ejercicio 3
-3. Estas a 2 semanas de terminar el desarrollo pedido durante el año de la fabrica de Marcelo y el sistema desarrollado se ve de la siguiente forma
+Estas a 2 semanas de terminar el desarrollo pedido durante el año de la fabrica de Marcelo y el sistema desarrollado se ve de la siguiente forma
 
 `
 MateriaPrima ----- ConexionMySQL
@@ -51,14 +51,14 @@ ElementoSeguridad ----- ConexionMySQL
 `
 
 ## Ejercicio 4
-4. El IES es comprado por Microsoft y se les exige a los alumnos dejar de utilizar las BD de Oracle como lo es MySQL. El sistema actual esta 
+El IES es comprado por Microsoft y se les exige a los alumnos dejar de utilizar las BD de Oracle como lo es MySQL. El sistema actual esta 
 "altamente acoplado" a MySQL, como resolverias la situacion. 
 
 * ¿Que principos GRASP se deberian haber aplicado
 * Propone vos un nuevo diseño aplicando los princpios GRASP correctos. Una ayuda... deberias usar Interfaces
 
 ## Ejercicio 5
-5. El coordinador de la carrera decide que el futuro son las aplicaciones moviles, por lo cual se les exige todos los alumnos tirar a 
+El coordinador de la carrera decide que el futuro son las aplicaciones moviles, por lo cual se les exige todos los alumnos tirar a 
 la hoguera el IDE Netbeans y utlizar AndroidStudio. Cada alumno estaba desarrollando su sistema utilizando JavaFX. por lo cual
 el sistema se ve de la siguiente forma
 `
@@ -71,7 +71,7 @@ que dependiendo del cliente (Marcelo o Enzo) debemos "crear" una interfaz difere
 * Representar esa solcion con un diagrama
 
 ## Ejercicio 6
-6. La profesora preferida de los alumnos de sistemas les pide una tarea a sus alumnos y ellos deseperados corren a realizarla
+La profesora preferida de los alumnos de sistemas les pide una tarea a sus alumnos y ellos deseperados corren a realizarla
 En la clase de Redes la profesora les explica las carateristicas principales de un Router
 
 > "Un router CISCO, tiene un conector RJ45, 4 bocas Ethernet y 2 antenas Wifi" 
@@ -81,7 +81,7 @@ En la clase de Redes la profesora les explica las carateristicas principales de 
 	* Importante, aunque su profesora mas querida les dio una informacion "particular" pero las clases se diseñan de manera "general"
 
 ## Ejercicio 7
-7. Javascript es un lenguaje de programacion que soporta orientacion a objetos, normalmente en el
+Javascript es un lenguaje de programacion que soporta orientacion a objetos, normalmente en el
 se pueden crear clases las cuales pueden manipular el HTML, dentro del HTML se pueden generar eventos
 como por ejemplo el "click" sobre un boton , el "input" sobre una caja de texto, o un "mouseover" cuando 
 el mouse pasa sobre algun elemento.
@@ -96,7 +96,7 @@ HTMLCalculadora  ----> ???? -----> LogicaCaluladora
 * Completa el diagrama utilizando la clase ,producto de aplicar el principio GRASP
 
 ## Ejercicio 8
-8. Con motivo del mundial se les solicita desarrollar un juego
+Con motivo del mundial se les solicita desarrollar un juego
 relacionado con el deporte del futbol, aplicando lo visto en AyDS
 usted empieza a desarrollar el diagrama de clases y esta de la siguiente 
 manera:
@@ -109,7 +109,7 @@ Arbitro
 * Nombre los distintos principios que aplico
 
 ## Ejercicio 9
-9. El Banco Nacion lo llama por telefono para que revise su sistema de
+El Banco Nacion lo llama por telefono para que revise su sistema de
 cajeros automaticos, el encargado de sistemas del Banco Nacion le muestra la 
 siguiente clase
 
@@ -137,7 +137,7 @@ tarjetas y tambien debe permitir dolares
 * Que princpios se deben aplicar para implementar los pedidos del banco
 
 ## Ejercicio 10
-10. Esta diseñando una aplicacion para dar a conocer 
+Esta diseñando una aplicacion para dar a conocer 
 los distintos grupos/cantantes relacionados al mundo de la musica de 
 Corea del Sur. El programador con el que usted esta realizando el sistema es Corea y le presenta
 el siguiente diagrama
@@ -159,7 +159,7 @@ el siguiente diagrama
 * En caso de no serlo, realice devuelta este diagrama corrigiendo o proponiendo cambios
 
 ## Ejercicio 11
-11. Segun lo abordado que principios GRASP identifica en
+Segun lo abordado que principios GRASP identifica en
 el patron MVC 
 `
 Modelo  ---- Controlador ---- Vista
