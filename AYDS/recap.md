@@ -1,4 +1,4 @@
-# Avances 
+# Avances
 
 ## Alumnos
 
@@ -24,7 +24,7 @@
  Tutorial SQL  | 0%       |
  Reseña Libro  | NO       |
 
- Estado ✓ 
+ Estado ✓
 
 #### Clase Nº 2
 
@@ -34,7 +34,7 @@
  Blog               | ✓                   |
  Uso de HTML,JS,CSS | x, falta uso de JS  |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -51,7 +51,7 @@ Estado x
  Uso de JQuery                    | x      |
  Articulo sobre poner Comentarios | x      |
 
-Estado x 
+Estado x
 
 ### Diaz Damian (Yoni)
 
@@ -67,7 +67,7 @@ Estado x
  Tutorial JAVA | 25%     |
  Reseña Libro  | NO      |
 
-Estado ✓ 
+Estado ✓
 
 #### Clase Nº 2
 
@@ -77,7 +77,7 @@ Estado ✓
  Pagina en Firebase | x, falta comentario |
  Blog               | x                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -94,9 +94,9 @@ Estado x
  Uso de Bootstrap                 | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
 
-### Fuentes Yamila 
+### Fuentes Yamila
 
 #### Clase Nº 1 (Anual)
 
@@ -110,7 +110,7 @@ Estado x
  Tutorial JAVA | 0%      |
  Reseña Libro  | NO      |
 
-Estado x 
+Estado x
 
 #### Clase Nº 2
 
@@ -120,7 +120,7 @@ Estado x
  Pagina en Firebase | x                   |
  Blog               | x                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -137,7 +137,7 @@ Estado x
  Uso de Bootstrap                 | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
 
 ### Guirado Santiago
 
@@ -153,7 +153,7 @@ Estado x
  Tutorial SQL  | 0%      |
  Reseña Libro  | NO      |
 
-Estado x 
+Estado x
 
 #### Clase Nº 2
 
@@ -163,7 +163,7 @@ Estado x
  Pagina en Firebase | ✓                   |
  Blog               | ✓                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -180,7 +180,7 @@ Estado x
  Articulo sobre poner Comentarios | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
 
 ### Marin Lisa
 
@@ -196,7 +196,7 @@ Estado x
  Tutorial SQL  | 0%       |
  Reseña Libro  | NO       |
 
-Estado x 
+Estado x
 
 #### Clase Nº 2
 
@@ -206,7 +206,7 @@ Estado x
  Pagina en Firebase | x                   |
  Blog               | x                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -223,7 +223,7 @@ Estado x
  Articulo sobre poner Comentarios | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
 
 ### Murillo Gregori
 
@@ -239,7 +239,7 @@ Estado x
  Tutorial JS   | 0%       |
  Reseña Libro  | NO       |
 
-Estado x 
+Estado x
 
 #### Clase Nº 2
 
@@ -249,7 +249,7 @@ Estado x
  Pagina en Firebase | x                   |
  Blog               | x                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -266,7 +266,7 @@ Estado x
  Articulo sobre poner Comentarios | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
 
 ### Villalba Gabriela
 
@@ -282,7 +282,7 @@ Estado x
  Tutorial JS   | 0%       |
  Reseña Libro  | NO       |
 
-Estado x 
+Estado x
 
 #### Clase Nº 2
 
@@ -292,7 +292,7 @@ Estado x
  Pagina en Firebase | x                   |
  Blog               | x                   |
 
-Estado x 
+Estado x
 
 #### Clase Nº 3
 
@@ -309,4 +309,4 @@ Estado x
  Articulo sobre poner Comentarios | x      |
  Uso de JQuery                    | x      |
 
-Estado x 
+Estado x
