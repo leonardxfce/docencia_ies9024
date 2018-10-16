@@ -1,4 +1,4 @@
-# Clase N° 3
+# Clase N° 4
 
 1. Eje/unidad (del programa):
     * EJE V: Desarrollo Profesional del Analista de Sistemas
@@ -24,7 +24,7 @@
     5. Coordinar con los compañeros la creacion de un espacio de Slack.
     6. Configurar Slack para utilizar las caracteristicas de desarrollo de [Slack](https://slack.com/intl/es/solutions/engineering), por ejemplo: la integracion con GitHub
     7. Leer y aplicar al proceso de desarrollo la tecnica Pomodoro.
-    8. Contabilizar el tiempo de trabajo que le toma realizar una tarea medido en Pomodoros
+    8. Contabilizar el tiempo de trabajo que le toma realizar una tarea en
     9. __IMPORTANTE__: cuando usted necesite ayuda en cualquier etapa solicítela en el foro de la actividad.
 8. Tiempo:
     * Las actividades propuestas en esta clase deberán ser resueltas antes del 22/10. Día en el cual el foro de la actividad se cerrará.
@@ -33,3 +33,5 @@
     * Se valoraran de forma positiva las participaciones que expresen los avances en cada actividad.
     * Solicitar cualquier tipo de ayuda en el foro será valorada de forma positiva
     * Se considerará como aprobado aquel alumno que en alguna de las participaciones del foro, enlaza con link´s de las tareas propuestas
+    * Adicionalmente como requisito mínimo se deben aplicar los conceptos vistos en Practica Profesionalizante II sobre desarrollo web.
+    * Finalmente dentro del sitio web debe existir una sección de Blog y esta debe poseer como el articulo solicitado
